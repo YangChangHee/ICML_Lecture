@@ -1,4 +1,5 @@
 # **ICML_LECTURE (DL)**
-**## Intention**
+## **Intention**
+To make it easier for eveyone to study
 
 
